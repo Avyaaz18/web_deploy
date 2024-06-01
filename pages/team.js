@@ -173,18 +173,6 @@ const people = [
 const people = [
   [
     {
-      name: "Aayush Patel",
-      contact: "cs20btech@iith.ac.in",
-      githubUsername: "Aayush2492",
-    },
-    {
-      name: "Vikhyath K.",
-      contact: "cs20btech@iith.ac.in",
-      githubUsername: "Vikhyath-vec",
-    },
-  ],
-  [
-    {
       name: "Kushagra Gupta",
       contact: "cs21btech@iith.ac.in",
       githubUsername: "MistyRavager",
@@ -202,113 +190,39 @@ const people = [
     {
       name: "Varun Gupta",
       contact: "cs21btech@iith.ac.in",
-      githubUsername: "procodervarun",
+      githubUsername: "alphoeniz",
     },
   ],
   [
     {
-      name: "Bhaskar Mandal",
-      githubUsername: "bhaskaraa45",
-    },
-    {
-      name: "Himanhsu",
-      githubUsername: "himanshu-ui-max ",
-    },
-    {
-      name: "Priyanshu Goyal",
-      githubUsername: "Priyanshu327Goyal",
-    },
-    {
-      name: "Bonthu Mani Hemanth Reddy",
-      githubUsername: "hemanthreddy6",
-    },
-    {
-      name: "Suraj Kumar ",
-      githubUsername: "kumarsuraj151",
-    },
-    {
-      name: "Saksham",
-      githubUsername: "saksham-ai26",
-    },
-    {
-      name: "Darpan Gaur",
-      githubUsername: "darpan-gaur",
-    },
-    {
-      name: "Lokesh",
-      githubUsername: "LokeshBadisa",
-    },
-    {
-      name: "Armaan",
-      githubUsername: "Jitik12",
-    },
-    {
-      name: "Arin Parag Kulkarni ",
-      githubUsername: "akoolarni",
-    },
-    {
-      name: "Prakhar Saxena",
-      githubUsername: "prakhar-codes",
-    },
-    {
-      name: "G.SAI KEERTHI",
-      githubUsername: "Gsaikeerthi",
-    },
-    {
-      name: "RISHITHA SURINENI",
-      githubUsername: "Rishitha745",
-    },
-    {
       name: "Dikshant Khandelwal",
+      contact: "cs22btech@iith.ac.in",
       githubUsername: "DikshantK2004",
     },
     {
-      name: "K S Ananth",
-      githubUsername: "ksananth4424",
-    },
-    {
-      name: "Nimai Parsa",
-      githubUsername: "nimaiParsa",
-    },
-    {
-      name: "Kaipa Venkata Tuhil",
-      githubUsername: "Tuhil926",
-    },
-    {
-      name: "Monish Asawa",
-      githubUsername: "Monish-Asawa",
-    },
-    {
-      name: "Siddhant Shahapurkar",
-      githubUsername: "siddhantshahapurkar",
-    },
-    {
-      name: "SIDDHARTHA KOMMU",
-      githubUsername: "SIDDHARHTA182004",
-    },
-    {
-      name: "Ajay Krishnan K",
-      githubUsername: "ajaykrshna",
+      name: "Jash Jhatakia",
+      contact: "cs22btech@iith.ac.in",
+      githubUsername: "jash-j3",
     },
     {
       name: "Adhith T",
+      contact: "ma22btech@iith.ac.in",
       githubUsername: "adhitht",
     },
     {
-      name: "Gitanshu Arora",
-      githubUsername: "GitanshuA",
+      name: "Bhaskar Mandal",
+      contact: "ms22btech@iith.ac.in",
+      githubUsername: "bhaskaraa45",
+    },
+  ],
+  [
+    {
+      name: "To be announced",
+      githubUsername: "",
     },
     {
-      name: "Advait Jain",
-      githubUsername: "adv8j",
-    },
-    {
-      name: "Gunnam Sri Satya Koushik",
-      githubUsername: "koushikgunnam",
-    },
-    {
-      name: "Jash Jhatakia",
-      githubUsername: "jash-j3",
+      name: "To be announced",
+      githubUsername: "",
     },
   ],
 ];
